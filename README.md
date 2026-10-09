@@ -2,5 +2,5 @@
 
 ### Praktikum Analisis Desain Berorientasi Objek
 
-- 🌱 I'm currently learning **Pengenalan Lingkungan Praktikum dan Kakas Pemodelan UML**
+- 🌱 I'm currently learning **Unified Modeling Language (UML)**
 

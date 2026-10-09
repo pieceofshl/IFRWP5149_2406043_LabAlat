@@ -1,0 +1,7 @@
+|No.|Temuan|Perbaikan|   yang    |diperlukan|                                                                                          Alasan                                                                                          |
+|---|------|---------|-----------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 |Aktor |Mahasiswa|diletakkan |    di    |         dalam batas sistem. Memindahkan aktor Mahasiswa ke luar batas sistem. Aktor merupakan pihak yang berinteraksi dengan sistem sehingga harus berada di luar batas sistem.          |
+| 2 |Fungsi|  Lihat  |  jadwal   |  kuliah  |                     digambarkan sebagai kotak biasa. Mengubah bentuk fungsi Lihat jadwal kuliah menjadi elips. Use case harus digambarkan menggunakan simbol elips.                      |
+| 3 |Aktor |Mahasiswa|dihubungkan|  dengan  |           fungsi Kelola jadwal kuliah. Menghubungkan aktor Mahasiswa dengan fungsi Lihat jadwal kuliah. Hubungan aktor dan fungsi harus sesuai dengan skenario yang diberikan.           |
+| 4 |Judul | diagram |menggunakan|  Sistem  |Informasi Peminjaman dan Pengembalian Peralatan Laboratorium Kampus. Mengganti judul menjadi Sistem Informasi Akademik. Identitas diagram harus sesuai dengan sistem yang sedang dibahas. |
+-
