@@ -16,16 +16,16 @@
         <mxCell id="aPtBVh8GiPFxt09XS-Li-26" edge="1" parent="1" source="aPtBVh8GiPFxt09XS-Li-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="aPtBVh8GiPFxt09XS-Li-25" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aPtBVh8GiPFxt09XS-Li-23" parent="1" style="whiteSpace=wrap;html=1;strokeColor=default;" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 19px; white-space: pre;&quot;&gt;&lt;font style=&quot;font-size: 8px; color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Buka daftar peralatan&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="aPtBVh8GiPFxt09XS-Li-23" parent="1" style="whiteSpace=wrap;html=1;strokeColor=default;" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 19px; white-space: pre;&quot;&gt;&lt;font style=&quot;font-size: 12px; color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Buka daftar peralatan&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="365" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="aPtBVh8GiPFxt09XS-Li-25" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 19px; white-space: pre;&quot;&gt;&lt;font style=&quot;font-size: 7px; color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Lihat informasi ketersediaan&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="aPtBVh8GiPFxt09XS-Li-25" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 19px; white-space: pre;&quot;&gt;&lt;font style=&quot;font-size: 12px; color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;Lihat informasi ketersediaan&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="365" y="390" as="geometry" />
         </mxCell>
         <mxCell id="aPtBVh8GiPFxt09XS-Li-28" edge="1" parent="1" source="aPtBVh8GiPFxt09XS-Li-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="aPtBVh8GiPFxt09XS-Li-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-      </root>
+      <mxCell id="p01-title" parent="1" style="text;html=1;align=left;fontStyle=1;fontSize=14;" value="Latihan kakas — S-ORI-01" vertex="1"><mxGeometry height="30" width="300" x="40" y="10" as="geometry"/></mxCell><mxCell id="p01-note" parent="1" style="text;html=1;align=left;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;whiteSpace=wrap;" value="Belum divalidasi sebagai model proses" vertex="1"><mxGeometry height="30" width="220" x="40" y="45" as="geometry"/></mxCell></root>
     </mxGraphModel>
   </diagram>
 </mxfile>

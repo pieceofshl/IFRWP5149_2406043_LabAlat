@@ -6,7 +6,7 @@
 | ----------------- | ------------------------------------------------ |
 | Mata kuliah       | Praktikum Analisis dan Desain Berorientasi Objek |
 | Identitas artefak | P03 / SIA                                        |
-| Versi             | v02 — hasil pemeriksaan konsistensi              |
+| Versi             | v01 — hasil pemeriksaan konsistensi              |
 | Sumber            | Jobsheet Praktikum Pertemuan 3, halaman 41–43    |
 
 ---

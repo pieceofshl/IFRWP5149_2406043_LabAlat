@@ -4,9 +4,9 @@
 |---|---|
 | Artefak | Model analisis / katalog use case |
 | Kasus | Pengajuan dan Persetujuan KRS |
-| Versi | v02 — telah diperiksa terhadap tiga skenario uji |
-| Diagram terkait | `P03_2406043_SIA_usecase_v02.drawio` dan `P03_2406043_SIA_usecase_v02.png` |
-| Deskripsi terkait | `P03_2406043_SIA_deskripsi_v02.md` |
+| Versi | v01 — telah diperiksa terhadap tiga skenario uji |
+| Diagram terkait | `P03_2406043_SIA_usecase_v01.drawio` dan `P03_2406043_SIA_usecase_v01.png` |
+| Deskripsi terkait | `P03_2406043_SIA_deskripsi_v01.md` |
 
 ## 1. Batas sistem
 
@@ -78,4 +78,4 @@ SIA-R01 (Mahasiswa dapat melihat jadwal kuliah) dan SIA-R02 (Admin akademik dapa
 
 ## 7. Catatan versi
 
-Paket ini memakai **v02** untuk artefak deskripsi, model analisis, dan diagram agar tidak menimpa berkas **v01** yang tampak pada struktur proyek. File kebutuhan dibuat dengan nama `P03_SIA_kebutuhan_v01.md` sesuai instruksi jobsheet. Perubahan utama dalam paket revisi ini adalah penegasan arah panah include/extend, kondisi extend, extension point, serta hasil dari tiga situasi uji.
+Semua artefak SIA P03 memakai **v01** (diagram, model analisis, deskripsi). Kebutuhan ada pada `01_skenario/P03_SIA_kebutuhan_v01.md`. Perubahan setelah review disimpan sebagai v02 tanpa menimpa v01.

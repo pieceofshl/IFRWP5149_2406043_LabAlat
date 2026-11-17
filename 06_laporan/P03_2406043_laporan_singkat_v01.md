@@ -22,3 +22,6 @@ Tabel berikut merangkum hal-hal yang perlu diperhatikan dalam penyusunan model P
 ## Kesimpulan
 
 Review P03 berfokus pada ketepatan batas sistem KRS, penempatan dan asosiasi aktor, serta arah dan kondisi relasi `«include»` dan `«extend»`. Deskripsi use case juga perlu konsisten dengan diagram, terutama pada hasil validasi, sifat opsional pengunduhan bukti, dan keputusan dosen wali. Kebutuhan SIA-R01 dan SIA-R02 tetap dicatat sebagai konteks Pertemuan 2 dan tidak dimodelkan ulang dalam diagram KRS ini.
+
+## Perbaikan LAB P03
+Diagram `P03_2406043_LAB_usecase_v02.drawio` menggantikan v01: label aktor "Petugas Laboran" diseragamkan menjadi "Petugas Laboratorium" dan aktor Kepala Laboratorium ditambahkan dengan asosiasi ke LAB-UC07. File v01 dipertahankan.

@@ -7,7 +7,8 @@
 | NIM | 2406043 |
 | Versi | v01 |
 | Tanggal | 30 Oktober 2026 |
-| Diagram acuan | `03_latihan_tools/P04/LAB/P04_2406043_LAB_usecase_v01.drawio` (berkas yang tersedia di repository; tidak diubah) |
+| Diagram acuan | `04_model_analisis/P04/LAB/P04_2406043_LAB_usecase_v01.drawio` (tidak diubah); versi perbaikan `P04_2406043_LAB_usecase_v02.drawio` |
+| Tabel skenario | `04_model_analisis/P05/LAB/P05_2406043_LAB_skenario_v01.drawio` (12 halaman) |
 | Dokumen jobsheet acuan | `Jobsheet Praktikum Pertemuan 5.md`, bagian C.2 dan C.4 |
 | Kebutuhan acuan | LAB-R01 sampai LAB-R11 (`P04_LAB_kebutuhan_v01.md`) |
 
@@ -22,12 +23,7 @@ diubah dan tidak ada diagram baru pada Pertemuan 5.
 Sebelum membaca tabel, diagram kumulatif P04 diperiksa ulang: **5 aktor**, **12 use case**,
 **2 collaboration**, dan **17 hubungan**.
 
-Catatan lokasi berkas: jobsheet menyebut diagram acuan berada pada
-`04_model_analisis/P04/LAB/P04_2406043_LAB_usecase_v01.drawio`, tetapi pada repository folder
-tersebut baru memuat `P04_2406043_LAB_model_analisis_v01.md`. Berkas diagram LAB yang tersedia
-adalah `03_latihan_tools/P04/LAB/P04_2406043_LAB_usecase_v01.drawio`, sehingga berkas itulah yang
-dipakai sebagai acuan gambar; daftar 17 hubungan tetap mengikuti Tabel 4.5 pada model analisis P04.
-Berkas tersebut tidak diubah pada Pertemuan 5.
+Diagram acuan sudah dipindah ke `04_model_analisis/P04/LAB/` sesuai jobsheet; berkas v01 tidak diubah, perbaikan ada pada v02.
 
 | Aktor | Kedudukan | Use case yang diasosiasikan |
 |---|---|---|
@@ -283,3 +279,16 @@ tanpa menimpa v01.
    collaboration serta nama aktor dengan diagram (F3, F7).
 4. Berkas diagram P04 tidak diubah. Perbaikan F7 memerlukan versi diagram baru (v02) dan
    keputusan dosen/asisten, bukan perubahan langsung pada berkas acuan Pertemuan 5.
+
+## 6. Status perbaikan
+
+| Kode | Status | Keterangan |
+|---|---|---|
+| F3 | Diperbaiki | Keterangan collaboration "LAB-CO01 Ajukan Peminjaman" ditambahkan pada Tabel 5.1; Tabel 5.12 memuat keterangan "LAB-CO02 Catat Pengembalian Peralatan". |
+| F4 | Diperbaiki | Tabel 5.10 langkah 5 kini "cabang dari langkah 3". |
+| F7 | Diperbaiki pada v02 | `P04_2406043_LAB_usecase_v02.drawio` memakai "Petugas Laboratorium" dan memuat aktor Kepala Laboratorium. |
+| F8 | Diperbaiki | Tabel 5.12 langkah 5 dipindah ke kolom Respon sistem. |
+| F1 | Diperbaiki | Tabel 5.1 langkah 7 kini menyatakan hasil pemeriksaan pada langkah 2, bukan relasi include sebagai alternatif. |
+| F2 | Diperbaiki | Tabel 5.1 langkah 11 diberi catatan bahwa asosiasi LAB-UC05 hanya dimiliki Mahasiswa. |
+| F5 | Diperbaiki | Baris Aktor Tabel 5.4 dan 5.13 kini "Tidak ada aktor langsung; dipanggil oleh ...", konsisten dengan Deskripsi. Gaya ini dipakai untuk kedua tabel. |
+| F6 | Terbuka | Tidak ada perubahan isi; hanya tata letak salinan jobsheet. |

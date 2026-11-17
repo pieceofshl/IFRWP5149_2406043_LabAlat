@@ -37,8 +37,6 @@ aturan denda.
 mempunyai representasi pada diagram kumulatif, arah generalization dan
 realization benar, dan diagram konsisten dengan deskripsinya.
 
-md
-```
 | Aktor | Kedudukan | Tujuan terhadap Sistem |
 |---|---|---|
 | **Peminjam** | Umum (*general*), baru pada Pertemuan 4 | Berperan sebagai aktor umum bagi peminjam peralatan. Mewariskan fungsinya kepada Mahasiswa dan Dosen. |
@@ -46,7 +44,6 @@ md
 | **Dosen** | Khusus dari Peminjam, baru pada Pertemuan 4 | Melihat ketersediaan dan mengajukan peminjaman (diwarisi dari Peminjam). |
 | **Petugas Laboratorium** | Tetap dari Pertemuan 3 | Mengelola data peralatan, memproses keputusan peminjaman, dan mencatat pengembalian peralatan. |
 | **Kepala Laboratorium** | Tetap dari Pertemuan 3 | Melihat laporan peminjaman. |
-```
 
 | ID | Nama Use Case | Peran dalam Model | Sumber Kebutuhan |
 |---|---|---|---|
@@ -62,13 +59,11 @@ md
 | LAB-UC10 | Hapus Data Peralatan | Baru pada Pertemuan 4; use case KHUSUS dari LAB-UC02 | LAB-R08 |
 | LAB-UC11 | Catat Pengembalian Peralatan | Baru pada Pertemuan 4; fungsi utama petugas; direalisasikan LAB-CO02 | LAB-R09 |
 | LAB-UC12 | Periksa Kondisi Peralatan | Baru pada Pertemuan 4; perilaku yang disertakan oleh LAB-UC11 | LAB-R10 |
-```
 
 | ID | Nama Collaboration (Sama dengan Nama Use Case) | Use Case yang Direalisasikan |
 |---|---|---|
 | LAB-CO01 | Ajukan Peminjaman | LAB-UC03: Ajukan Peminjaman |
 | LAB-CO02 | Catat Pengembalian Peralatan | LAB-UC11: Catat Pengembalian Peralatan |
-```
 
 
 

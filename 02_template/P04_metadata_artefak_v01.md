@@ -17,7 +17,12 @@
 | Generalization use case | Tambah Data Peralatan, Ubah Data Peralatan, dan Hapus Data Peralatan khusus dari Kelola Data Peralatan |
 | Collaboration | LAB-CO01 Ajukan Peminjaman; LAB-CO02 Catat Pengembalian Peralatan |
 | Sumber kebutuhan baru | LAB-R07 sampai LAB-R11 |
-| Artefak terkait | Berkas LAB P04 yang sudah ada di repository; jangan ditimpa saat menambahkan berkas SIA. |
+| Diagram sumber | `04_model_analisis/P04/LAB/P04_2406043_LAB_usecase_v02.drawio` (v01 dipertahankan) |
+| Ekspor diagram | `P04_2406043_LAB_usecase_v02.png` (perlu diekspor dari sumber v02) |
+| Model analisis | `04_model_analisis/P04/LAB/P04_2406043_LAB_model_analisis_v01.md` |
+| Deskripsi use case | `03_latihan_tools/P04/LAB/P04_2406043_LAB_deskripsi_v01.md` |
+| Skenario dan kebutuhan | `01_skenario/P04_LAB_skenario_v01.md`; `01_skenario/P04_LAB_kebutuhan_v01.md` |
+| Riwayat revisi LAB | v02: aktor Kepala Laboratorium ditambahkan; tiga aktor "Petugas Laboran" disatukan menjadi satu "Petugas Laboratorium"; relasi extend LAB-UC05 ke LAB-UC03 ditambahkan sehingga total 17 hubungan (Tabel 4.5); nama use case diseragamkan dengan ID LAB-UC; berkas dipindah ke `04_model_analisis/P04/LAB/` |
 
 ## Kasus SIA
 
