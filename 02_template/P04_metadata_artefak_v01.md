@@ -18,7 +18,7 @@
 | Collaboration | LAB-CO01 Ajukan Peminjaman; LAB-CO02 Catat Pengembalian Peralatan |
 | Sumber kebutuhan baru | LAB-R07 sampai LAB-R11 |
 | Diagram sumber | `04_model_analisis/P04/LAB/P04_2406043_LAB_usecase_v02.drawio` (v01 dipertahankan) |
-| Ekspor diagram | `P04_2406043_LAB_usecase_v02.png` (perlu diekspor dari sumber v02) |
+| Ekspor diagram | `P04_2406043_LAB_usecase_v02.png` (sudah diekspor dari sumber v02) |
 | Model analisis | `04_model_analisis/P04/LAB/P04_2406043_LAB_model_analisis_v01.md` |
 | Deskripsi use case | `03_latihan_tools/P04/LAB/P04_2406043_LAB_deskripsi_v01.md` |
 | Skenario dan kebutuhan | `01_skenario/P04_LAB_skenario_v01.md`; `01_skenario/P04_LAB_kebutuhan_v01.md` |

@@ -6,6 +6,6 @@
 
 **Bukti uji buka ulang:** berkas `.drawio` ditutup lalu dibuka kembali dan dapat disunting.
 
-**Kendala dan solusi:** teks pada diagram terlalu kecil, sehingga ukuran font diperbesar. PNG hasil ekspor perlu diekspor ulang setelah revisi.
+**Kendala dan solusi:** teks pada diagram terlalu kecil, sehingga ukuran font diperbesar. PNG sudah diekspor ulang setelah revisi.
 
 **Masih perlu bantuan:** tidak ada.

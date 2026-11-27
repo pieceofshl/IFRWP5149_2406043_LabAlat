@@ -1,7 +1,5 @@
 # Laporan Singkat Pertemuan 4
 
-Written for: dosen dan asisten praktikum ADBO, sebagai ringkasan pekerjaan P04.
-
 **Mata kuliah:** Praktikum Analisis dan Desain Berorientasi Objek
 **NIM:** 2406043
 **Status:** draf v01 dan v02 siap diperiksa; review rekan/asisten belum dilakukan.
